@@ -21,6 +21,16 @@ None  |
 
 Its fully based around the Java SDK and uses Java Swing, Graphics and Graphics2D to draw basic geometry
 
+## How to use it?
+
+SPACE - Will redraw new boundries/walls
+
+UP - Increases the brightness of the Rays
+
+DOWN - Decrease the brightness of the Rays
+
+Mouse Movment - Changes the position of the center of the Rays
+
 ## Links to the inspiration
 
 [YouTube](https://www.youtube.com/user/shiffman)
